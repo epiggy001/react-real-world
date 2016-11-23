@@ -1,0 +1,13 @@
+{
+  "about": {
+    "header": "This is header",
+    "info": "This is info"
+  },
+  "jobs": [{
+    "id": 1,
+    "text": "This is job1"
+  }, {
+    "id": 2,
+    "text": "This is job2"
+  }]
+}
